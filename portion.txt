@@ -1,0 +1,13 @@
+space and time tradeoff
+-horspool
+knapsack dynamic hofman 
+backtracking 
+branch and bond
+decision trees lower bond
+
+
+ruby rails
+last two units 
+programs form processing programming
+json
+sas
